@@ -1,5 +1,5 @@
 # Daily Learning'<h1>'
-## Morning Planning'<h2>'
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">## Morning Planning'<h2>'
 
 ## Review'<h2>'
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
